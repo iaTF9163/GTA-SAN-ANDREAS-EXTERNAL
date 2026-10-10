@@ -7,6 +7,6 @@ I tried my best to keep the code **clean**, **understandable** and **modifiable*
 
 Compile it with `g++ -o myCheat gtasanexternal.cpp -mwindows` and you're good to go! Have fun.
 
-<video src="video.webm" controls width="600">
+<video src="video.webm" width="600" controls>
   There is a video here, but your browser doesn't support displaying it :(
 </video>
