@@ -8,6 +8,4 @@ I tried my best to keep the code **clean**, **understandable** and **modifiable*
 
 Compile it with `g++ -o myCheat gtasanexternal.cpp -mwindows` and you're good to go! Have fun.
 
-<video src="output.webm" width="600" controls>
-  There is a video here, but your browser doesn't support displaying it :(
-</video>
+[output.webm](https://github.com/user-attachments/assets/8eff90f2-4be3-4376-accb-03c191adb997)
